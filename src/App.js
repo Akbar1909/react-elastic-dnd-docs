@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <div className="App">check domain name</div>;
+  return <div className="App">Akbar's branch</div>;
 }
 
 export default App;
