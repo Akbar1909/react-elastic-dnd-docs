@@ -4,9 +4,10 @@
 name: React elastic dnd
 
 on:
-  push:
+   pull_request:
+    types: closed
     branches:
-     - main
+      - master
 
 jobs:
   build:  
